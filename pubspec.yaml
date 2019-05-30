@@ -1,0 +1,15 @@
+name: peru_consultas
+description: Plugin que permite realizar consultas a diversos servicios en Perú.
+version: 0.0.1
+author: Johan Espinoza <johanp.es.al@gmail.com>
+# homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  html: ^0.14.0+2
+  cookie_jar: ^1.0.0
+
+dev_dependencies:
+  test: ^1.6.3
